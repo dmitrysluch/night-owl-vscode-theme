@@ -55,6 +55,11 @@
         "label": "Night Owl Light (No Italics)",
         "uiTheme": "vs",
         "path": "./themes/Night Owl-Light-color-theme-noitalic.json"
+      },
+      {
+        "label": "Night Owl Light Editor Dark Terminal",
+        "uiTheme": "vs",
+        "path": "./themes/Night Owl-Light-Editor-Dark-Terminal.json"
       }
     ]
   }
